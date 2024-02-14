@@ -2,9 +2,9 @@
 // export const baseAdminUrl = "http://localhost:4000/admin";
 // export const baseDoctorUrl = "http://localhost:4000/doctor";
 
-export const baseUserUrl = "http://server.dochere.online";
-export const baseAdminUrl = "http://server.dochere.online/admin";
-export const baseDoctorUrl = "http://server.dochere.online/doctor";
+export const baseUserUrl = "https://server.dochere.online";
+export const baseAdminUrl = "https://server.dochere.online/admin";
+export const baseDoctorUrl = "https://server.dochere.online/doctor";
 
 //USER
 export const USER_LOGIN = "/login";
